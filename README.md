@@ -2,7 +2,7 @@
 ### My name is Trang Kỳ Anh
 <p align="center">
    <a href="https://www.uit.edu.vn/">
-      <img src="https://github.com/nam0403/nam0403/blob/main/mygif.gif" border="none">
+      <img src="https://github.com/AllieInJune04/AllieInJune04/blob/main/mygif.gif" border="none">
    </a>
 </p>
 
