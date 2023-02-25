@@ -1,2 +1,2 @@
 ### Hi there 👋
-### My name is Trang Ky Anh
+### My name is Trang Kỳ Anh
