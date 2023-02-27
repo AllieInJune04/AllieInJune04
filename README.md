@@ -6,8 +6,9 @@
 
 <br>
 
-- I am :man_student: Student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/).
-- I have been 👧 Media Leader at [Ban học tập Công nghệ Phần mềm](https://www.facebook.com/bhtcnpm/)
+- :man_student: I am Student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/).
+- 💻 Field of study: Computer Systems Networking and Telecommunications
+- 👧 I have been Media Leader at [Ban học tập Công nghệ Phần mềm](https://www.facebook.com/bhtcnpm/)
 - :dart: I want to become a **Mobile Developer**.
 <br><br>
 
