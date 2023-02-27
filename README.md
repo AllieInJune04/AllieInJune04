@@ -6,11 +6,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- :man_student: Student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/).
+- :dart: I want to become a **Mobile Developer**.
 
 <br><br>
 
@@ -25,8 +22,7 @@
    </a>
 </p>
 
-- :man_student: Student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/).
-- :dart: I want to become a **Mobile Developer**.
+
  > *You only live once, but if you do it right, once is enough*
 # This is my stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllieInJune04&show_icons=true&theme=radical)
